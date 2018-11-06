@@ -1,6 +1,7 @@
 # 《Go 编程语言》读书笔记
 
 1. [Hello World](./notes/1.md)
+2. [命令行参数](./notes/2.md)
 
 ## REF
 
