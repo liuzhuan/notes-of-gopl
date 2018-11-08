@@ -2,6 +2,7 @@
 
 1. [Hello World](./notes/1.md)
 2. [命令行参数](./notes/2.md)
+3. [寻找重复的行](./notes/3.md)
 
 ## REF
 
